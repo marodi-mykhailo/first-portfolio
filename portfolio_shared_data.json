@@ -93,11 +93,6 @@
           "level": "95"
         },
         {
-          "name": "Heroku",
-          "class": "devicon-heroku-plain colored",
-          "level": "95"
-        },
-        {
           "name": "jQuery",
           "class": "devicon-jquery-plain colored",
           "level": "95"
@@ -115,11 +110,6 @@
         {
           "name": "MongoDB",
           "class": "devicon-mongodb-plain colored",
-          "level": "95"
-        },
-        {
-          "name": "NodeJS",
-          "class": "devicon-nodejs-plain colored",
           "level": "95"
         },
         {
