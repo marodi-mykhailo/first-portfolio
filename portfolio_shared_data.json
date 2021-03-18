@@ -16,6 +16,11 @@
         "name": "instagram",
         "url": "https://www.instagram.com/__zhivchik__/",
         "class": "fab fa-instagram"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/mike-marodi/",
+        "class": "fab fa-linkedin"
       }
     ],
     "image": "myProfile.jpg"
