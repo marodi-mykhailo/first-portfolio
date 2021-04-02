@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/first-portfolio/static/css/main.d07654e2.chunk.css",
-    "main.js": "/first-portfolio/static/js/main.e6746c81.chunk.js",
-    "main.js.map": "/first-portfolio/static/js/main.e6746c81.chunk.js.map",
+    "main.js": "/first-portfolio/static/js/main.9edea3a9.chunk.js",
+    "main.js.map": "/first-portfolio/static/js/main.9edea3a9.chunk.js.map",
     "runtime-main.js": "/first-portfolio/static/js/runtime-main.7706dea9.js",
     "runtime-main.js.map": "/first-portfolio/static/js/runtime-main.7706dea9.js.map",
     "static/css/2.d64471e2.chunk.css": "/first-portfolio/static/css/2.d64471e2.chunk.css",
-    "static/js/2.792860bc.chunk.js": "/first-portfolio/static/js/2.792860bc.chunk.js",
-    "static/js/2.792860bc.chunk.js.map": "/first-portfolio/static/js/2.792860bc.chunk.js.map",
+    "static/js/2.62ece203.chunk.js": "/first-portfolio/static/js/2.62ece203.chunk.js",
+    "static/js/2.62ece203.chunk.js.map": "/first-portfolio/static/js/2.62ece203.chunk.js.map",
     "index.html": "/first-portfolio/index.html",
-    "precache-manifest.1fa6a6c3d0b3868e1d53aab61336e425.js": "/first-portfolio/precache-manifest.1fa6a6c3d0b3868e1d53aab61336e425.js",
+    "precache-manifest.aaba67a379bef869fa91ddb174137fdc.js": "/first-portfolio/precache-manifest.aaba67a379bef869fa91ddb174137fdc.js",
     "service-worker.js": "/first-portfolio/service-worker.js",
     "static/css/2.d64471e2.chunk.css.map": "/first-portfolio/static/css/2.d64471e2.chunk.css.map",
     "static/css/main.d07654e2.chunk.css.map": "/first-portfolio/static/css/main.d07654e2.chunk.css.map",
-    "static/js/2.792860bc.chunk.js.LICENSE.txt": "/first-portfolio/static/js/2.792860bc.chunk.js.LICENSE.txt",
+    "static/js/2.62ece203.chunk.js.LICENSE.txt": "/first-portfolio/static/js/2.62ece203.chunk.js.LICENSE.txt",
     "static/media/myProfile.jpg": "/first-portfolio/static/media/myProfile.39265304.jpg",
     "static/media/p0.png": "/first-portfolio/static/media/p0.314dca2a.png",
     "static/media/p1.png": "/first-portfolio/static/media/p1.a24b6063.png",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.7706dea9.js",
     "static/css/2.d64471e2.chunk.css",
-    "static/js/2.792860bc.chunk.js",
+    "static/js/2.62ece203.chunk.js",
     "static/css/main.d07654e2.chunk.css",
-    "static/js/main.e6746c81.chunk.js"
+    "static/js/main.9edea3a9.chunk.js"
   ]
 }
