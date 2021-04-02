@@ -1,0 +1,163 @@
+{
+  "basic_info": {
+    "name": "Mykhailo Marodi",
+    "titles": [
+      "Front-end Developer",
+      "React",
+      "TypeScript"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/marodi-mykhailo",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/__zhivchik__/",
+        "class": "fab fa-instagram"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/mike-marodi/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "main": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original colored",
+          "level": "95"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-original colored",
+          "level": "95"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain colored",
+          "level": "95"
+        }
+      ]
+    },
+    "secondary": {
+      "icons": [
+        {
+          "name": "BOOTSTRAP",
+          "class": "devicon-bootstrap-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "GitHub",
+          "class": "devicon-github-original colored",
+          "level": "95"
+        },
+        {
+          "name": "GitLab",
+          "class": "devicon-gitlab-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "Gulp",
+          "class": "devicon-gulp-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "Heroku",
+          "class": "devicon-heroku-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "jQuery",
+          "class": "devicon-jquery-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "Less",
+          "class": "devicon-less-plain-wordmark colored",
+          "level": "95"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "npm",
+          "class": "devicon-npm-original-wordmark colored",
+          "level": "95"
+        },
+        {
+          "name": "php",
+          "class": "devicon-php-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original colored",
+          "level": "95"
+        },
+        {
+          "name": "Vue",
+          "class": "devicon-vuejs-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "Webpack",
+          "class": "devicon-webpack-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "WebStorm",
+          "class": "devicon-webstorm-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "yarn",
+          "class": "devicon-yarn-plain colored",
+          "level": "95"
+        }
+      ]
+    }
+  }
+}
